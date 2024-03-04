@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Stream  👋
+### Now working as an indie hacker.
 
 <!--
 **streamtw/streamtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Frontend Skills
+![Frontend Skills](https://skillicons.dev/icons?i=js,css,html,svg,vue,pinia,vitest,sass,pug)
+
+### Backtend Skills
+![Backtend Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,mysql,sqlite)
+
+### DevOps
+![DevOps](https://skillicons.dev/icons?i=git,docker,nginx,bash,jenkins,ansible,selenium)
+
+### Other tools I love
+![Other tools I love](https://skillicons.dev/icons?i=figma,firebase,md,graphql)
+
+### Currently learning
+![Currently learning](https://skillicons.dev/icons?i=typescript,c,go)
