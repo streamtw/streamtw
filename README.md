@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
---
+---
 
 ### Frontend Skills
 ![Frontend Skills](https://skillicons.dev/icons?i=js,css,html,svg,vue,pinia,vitest,sass,pug)
